@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9Bu/q1E4xzE7MW/IXk8YxWlcGDbLhns1W5aOK91R5tCNwFwxBvbrWP8FWdmV97hIt51yA1H8v2L5k2756iJTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logan\\source\\repos\\OMDB\\OMDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
